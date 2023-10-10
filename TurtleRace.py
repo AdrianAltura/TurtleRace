@@ -33,9 +33,4 @@ while run:
     ran = random.randint(0,10)
     tur.fd(ran)
 
-
-
-
-
-
 screen.exitonclick()
